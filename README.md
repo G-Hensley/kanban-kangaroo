@@ -66,3 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🦘 Why a Kangaroo?
 
 Because just like a kangaroo carries its joey in its pouch, Kanban Kangaroo helps you carry your tasks in an organized and efficient way! Plus, who doesn't love a good kangaroo pun? 🦘
+
+---
+
+Made with ❤️ by [Your Name]
