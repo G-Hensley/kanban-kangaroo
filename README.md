@@ -1,7 +1,5 @@
 # 🦘 Kanban Kangaroo - Your Agile Task Management Buddy
 
-![Kanban Kangaroo Logo](kanban-kangaroo-frontend/public/logo.png)
-
 ## 🎯 What's This All About?
 
 Kanban Kangaroo is your friendly neighborhood task management app that helps you hop through your to-do list with style! Whether you're a developer, project manager, or just someone who loves organizing their life, our kangaroo friend is here to help you manage your tasks with a fun and intuitive interface.
