@@ -52,6 +52,7 @@ export default function AddTaskForm({ setIsFormOpen }: { setIsFormOpen: (isOpen:
           placeholder='Task Title' 
           className='w-full p-2 rounded-md border-2 border-neutral-700'
           value={title}
+          autoFocus
           onChange={(e) => setTitle(e.target.value)}
         />
 
